@@ -1,9 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20&fontSize=90&fontColor=fff&desc=My%20Profile&descSize=30Desc&&descAlignY=70)
+![header](httpsg//capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20&fontSize=90&fontColor=fff&desc=My%20Profile&descSize=30Desc&&descAlignY=70)
+## CYJ 🤦‍♂️
+
+  Blog 👍 https://velog.io/@cyd5538 <br/>
+  email 💨 cyd9911@gmail.com
 
 ## Skills
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-e7e412.svg?&style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
-<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-3372b1.svg?&style=for-the-badge&logo=CSS3&logoColor=#1572B6"/>
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-cc1515.svg?&style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"/>
-<img alt="React" src ="https://img.shields.io/badge/React-5510bd.svg?&style=for-the-badge&logo=React&logoColor=#61DAFB"/>
-<img alt="Redux" src ="https://img.shields.io/badge/Redux-27303b.svg?&style=for-the-badge&logo=Redux&logoColor=#764ABC"/>
-<img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3776AB.svg?&style=for-the-badge&logo=TypeScript&logoColor=#3178C6"/>
+<div> 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/react-0A036B?style=for-the-badge&logo=react&logoColor=white"> 
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/mongoDB-E60C0C?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFFF0B?style=for-the-badge&logo=firebase&logoColor=0A0A05">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br>
+</div>
+  <br>
+  
+   <img src="https://github-readme-stats.vercel.app/api?username=cyd5538&show_icons=true&theme=radical" />
