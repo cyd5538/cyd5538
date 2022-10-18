@@ -1,4 +1,4 @@
-![header](httpsg//capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20&fontSize=90&fontColor=fff&desc=My%20Profile&descSize=30Desc&&descAlignY=70)
+
 ## CYJ 🤦‍♂️
 
   Blog 👍 https://velog.io/@cyd5538 <br/>
